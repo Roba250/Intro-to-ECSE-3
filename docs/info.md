@@ -9,11 +9,24 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+uses logic gate to create a 4-to-1 multiplexer
 
 ## How to test
 
-Explain how to use your project
+fliping switches
+
+truth table
+S1 S0	A	B	C	D	Out
+0	 0	0				0
+0	 0	1				1
+0	 1		0			0
+0  1		1			1
+1  0			0		0
+1	 0			1		1
+1	 1				0	0
+1	 1				1	1
+
+
 
 ## External hardware
 
