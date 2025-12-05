@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     0       # 447173649954615297
-  title:        ""      # 4-to-1 multiplexer
-  author:       ""      # Angela R.
+  title:        "4-to-1 multiplexer"      # 4-to-1 multiplexer
+  author:       "Angela R."      # Angela R.
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # combination logic of 4-to-1 multiplexer
+  description:  "combination logic of 4-to-1 multiplexer"      # 
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
