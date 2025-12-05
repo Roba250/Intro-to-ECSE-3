@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # 447173649954615297
+  wokwi_id:     447173649954615297       # 447173649954615297
   title:        "4-to-1 multiplexer"      # 4-to-1 multiplexer
   author:       "Angela R."      # Angela R.
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
