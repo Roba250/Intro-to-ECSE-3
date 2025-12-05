@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-uses logic gate to create a 4-to-1 multiplexer
+uses logice gate to create a 4-to-1 multiplexer
 
 ## How to test
 
