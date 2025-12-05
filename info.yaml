@@ -27,16 +27,16 @@ pinout:
 
   # Outputs
   uo[0]: "11"
-  uo[1]: "22"
-  uo[2]: "33"
-  uo[3]: "44"
-  uo[4]: "55"
-  uo[5]: "66"
+  uo[1]: ""
+  uo[2]: ""
+  uo[3]: ""
+  uo[4]: ""
+  uo[5]: ""
   uo[6]: ""
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: "1"
+  uio[0]: ""
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
