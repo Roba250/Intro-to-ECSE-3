@@ -15,18 +15,6 @@ uses logice gate to create a 4-to-1 multiplexer
 
 fliping switches
 
-truth table
-S1 S0	A	B	C	D	Out
-0	 0	0				0
-0	 0	1				1
-0	 1		0			0
-0  1		1			1
-1  0			0		0
-1	 0			1		1
-1	 1				0	0
-1	 1				1	1
-
-
 
 ## External hardware
 
